@@ -1,0 +1,2557 @@
+# java -jar videopoker.jar -d 10000 ./TESTS/cmd-file3.txt ./TESTS/card-file3.txt
+
+-cmd b
+player is betting 1
+
+-cmd d
+player's hand AS AC 3D 5S 7C
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2 3 4 5
+player's hand AS AC 3D 5S 7C
+player wins with a JACKS OR BETTER and his credit is 10000
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         1
+Two Pair                                0
+Three of a Kind                         0
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   1
+---------------------------------------------------
+Credit                       10000      (100.00%)
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand AS AC 3D 5S 7C
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2 3 4 5
+player's hand AS AC 3D 5S 7C
+player wins with a JACKS OR BETTER and his credit is 10000
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         2
+Two Pair                                0
+Three of a Kind                         0
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   2
+---------------------------------------------------
+Credit                       10000      (100.00%)
+
+-cmd b
+player is betting 3
+
+-cmd d
+player's hand AS AC 3D 5S 7C
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2 3 4 5
+player's hand AS AC 3D 5S 7C
+player wins with a JACKS OR BETTER and his credit is 10000
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         3
+Two Pair                                0
+Three of a Kind                         0
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   3
+---------------------------------------------------
+Credit                       10000      (100.00%)
+
+-cmd b
+player is betting 4
+
+-cmd d
+player's hand AS AC 3D 5S 7C
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2 3 4 5
+player's hand AS AC 3D 5S 7C
+player wins with a JACKS OR BETTER and his credit is 10000
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         4
+Two Pair                                0
+Three of a Kind                         0
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   4
+---------------------------------------------------
+Credit                       10000      (100.00%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AS AC 3D 5S 7C
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2 3 4 5
+player's hand AS AC 3D 5S 7C
+player wins with a JACKS OR BETTER and his credit is 10000
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                0
+Three of a Kind                         0
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   5
+---------------------------------------------------
+Credit                       10000      (100.00%)
+
+-cmd b
+player is betting 1
+
+-cmd d
+player's hand 7S 7C 8D 8H 2S
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4 5
+player's hand 7S 7C 8D 8H 2S
+player wins with a TWO PAIR and his credit is 10000
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                1
+Three of a Kind                         0
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   6
+---------------------------------------------------
+Credit                       10000      (100.00%)
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand 7S 7C 8D 8H 2S
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4 5
+player's hand 7S 7C 8D 8H 2S
+player wins with a TWO PAIR and his credit is 10000
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                2
+Three of a Kind                         0
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   7
+---------------------------------------------------
+Credit                       10000      (100.00%)
+
+-cmd b
+player is betting 3
+
+-cmd d
+player's hand 7S 7C 8D 8H 2S
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4 5
+player's hand 7S 7C 8D 8H 2S
+player wins with a TWO PAIR and his credit is 10000
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                3
+Three of a Kind                         0
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   8
+---------------------------------------------------
+Credit                       10000      (100.00%)
+
+-cmd b
+player is betting 4
+
+-cmd d
+player's hand 7S 7C 8D 8H 2S
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4 5
+player's hand 7S 7C 8D 8H 2S
+player wins with a TWO PAIR and his credit is 10000
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                4
+Three of a Kind                         0
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   9
+---------------------------------------------------
+Credit                       10000      (100.00%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7S 7C 8D 8H 2S
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4 5
+player's hand 7S 7C 8D 8H 2S
+player wins with a TWO PAIR and his credit is 10000
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         0
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   10
+---------------------------------------------------
+Credit                       10000      (100.00%)
+
+-cmd b
+player is betting 1
+
+-cmd d
+player's hand 3S 3C 3D 4H 2S
+
+-cmd a
+player should hold cards 1 2 3
+
+-cmd h 1 2 3 4 5
+player's hand 3S 3C 3D 4H 2S
+player wins with a THREE OF A KIND and his credit is 10002
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         1
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   11
+---------------------------------------------------
+Credit                       10002      (106.45%)
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand 3S 3C 3D 4H 2S
+
+-cmd a
+player should hold cards 1 2 3
+
+-cmd h 1 2 3 4 5
+player's hand 3S 3C 3D 4H 2S
+player wins with a THREE OF A KIND and his credit is 10006
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         2
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   12
+---------------------------------------------------
+Credit                       10006      (118.18%)
+
+-cmd b
+player is betting 3
+
+-cmd d
+player's hand 3S 3C 3D 4H 2S
+
+-cmd a
+player should hold cards 1 2 3
+
+-cmd h 1 2 3 4 5
+player's hand 3S 3C 3D 4H 2S
+player wins with a THREE OF A KIND and his credit is 10012
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         3
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   13
+---------------------------------------------------
+Credit                       10012      (133.33%)
+
+-cmd b
+player is betting 4
+
+-cmd d
+player's hand 3S 3C 3D 4H 2S
+
+-cmd a
+player should hold cards 1 2 3
+
+-cmd h 1 2 3 4 5
+player's hand 3S 3C 3D 4H 2S
+player wins with a THREE OF A KIND and his credit is 10020
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         4
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   14
+---------------------------------------------------
+Credit                       10020      (150.00%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 3S 3C 3D 4H 2S
+
+-cmd a
+player should hold cards 1 2 3
+
+-cmd h 1 2 3 4 5
+player's hand 3S 3C 3D 4H 2S
+player wins with a THREE OF A KIND and his credit is 10030
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   15
+---------------------------------------------------
+Credit                       10030      (166.67%)
+
+-cmd b
+player is betting 1
+
+-cmd d
+player's hand 2C 3S 4D 5H 6S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 2C 3S 4D 5H 6S
+player wins with a STRAIGHT and his credit is 10034
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                1
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   16
+---------------------------------------------------
+Credit                       10034      (173.91%)
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand 2C 3S 4D 5H 6S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 2C 3S 4D 5H 6S
+player wins with a STRAIGHT and his credit is 10042
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                2
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   17
+---------------------------------------------------
+Credit                       10042      (187.50%)
+
+-cmd b
+player is betting 3
+
+-cmd d
+player's hand 2C 3S 4D 5H 6S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 2C 3S 4D 5H 6S
+player wins with a STRAIGHT and his credit is 10054
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                3
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   18
+---------------------------------------------------
+Credit                       10054      (205.88%)
+
+-cmd b
+player is betting 4
+
+-cmd d
+player's hand 2C 3S 4D 5H 6S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 2C 3S 4D 5H 6S
+player wins with a STRAIGHT and his credit is 10070
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                4
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   19
+---------------------------------------------------
+Credit                       10070      (227.27%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 3S 4D 5H 6S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 2C 3S 4D 5H 6S
+player wins with a STRAIGHT and his credit is 10090
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   20
+---------------------------------------------------
+Credit                       10090      (250.00%)
+
+-cmd b
+player is betting 1
+
+-cmd d
+player's hand AS QS TS 8S 6S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS QS TS 8S 6S
+player wins with a FLUSH and his credit is 10096
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   1
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   21
+---------------------------------------------------
+Credit                       10096      (257.38%)
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand AS QS TS 8S 6S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS QS TS 8S 6S
+player wins with a FLUSH and his credit is 10108
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   2
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   22
+---------------------------------------------------
+Credit                       10108      (271.43%)
+
+-cmd b
+player is betting 3
+
+-cmd d
+player's hand AS QS TS 8S 6S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS QS TS 8S 6S
+player wins with a FLUSH and his credit is 10126
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   3
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   23
+---------------------------------------------------
+Credit                       10126      (290.91%)
+
+-cmd b
+player is betting 4
+
+-cmd d
+player's hand AS QS TS 8S 6S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS QS TS 8S 6S
+player wins with a FLUSH and his credit is 10150
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   4
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   24
+---------------------------------------------------
+Credit                       10150      (314.29%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AS QS TS 8S 6S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS QS TS 8S 6S
+player wins with a FLUSH and his credit is 10180
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   25
+---------------------------------------------------
+Credit                       10180      (340.00%)
+
+-cmd b
+player is betting 1
+
+-cmd d
+player's hand 3S 3C 3D 2H 2S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 3S 3C 3D 2H 2S
+player wins with a FULL HOUSE and his credit is 10189
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              1
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   26
+---------------------------------------------------
+Credit                       10189      (348.68%)
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand 3S 3C 3D 2H 2S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 3S 3C 3D 2H 2S
+player wins with a FULL HOUSE and his credit is 10207
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              2
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   27
+---------------------------------------------------
+Credit                       10207      (365.38%)
+
+-cmd b
+player is betting 3
+
+-cmd d
+player's hand 3S 3C 3D 2H 2S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 3S 3C 3D 2H 2S
+player wins with a FULL HOUSE and his credit is 10234
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              3
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   28
+---------------------------------------------------
+Credit                       10234      (388.89%)
+
+-cmd b
+player is betting 4
+
+-cmd d
+player's hand 3S 3C 3D 2H 2S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 3S 3C 3D 2H 2S
+player wins with a FULL HOUSE and his credit is 10270
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              4
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   29
+---------------------------------------------------
+Credit                       10270      (417.65%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 3S 3C 3D 2H 2S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 3S 3C 3D 2H 2S
+player wins with a FULL HOUSE and his credit is 10315
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   30
+---------------------------------------------------
+Credit                       10315      (450.00%)
+
+-cmd b
+player is betting 1
+
+-cmd d
+player's hand AS AC AD AH 2S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS AC AD AH 2S
+player wins with a FOUR ACES and his credit is 10474
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          1
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   31
+---------------------------------------------------
+Credit                       10474      (620.88%)
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand AS AC AD AH 2S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS AC AD AH 2S
+player wins with a FOUR ACES and his credit is 10792
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          2
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   32
+---------------------------------------------------
+Credit                       10792      (951.61%)
+
+-cmd b
+player is betting 3
+
+-cmd d
+player's hand AS AC AD AH 2S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS AC AD AH 2S
+player wins with a FOUR ACES and his credit is 11269
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          3
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   33
+---------------------------------------------------
+Credit                       11269      (1421.88%)
+
+-cmd b
+player is betting 4
+
+-cmd d
+player's hand AS AC AD AH 2S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS AC AD AH 2S
+player wins with a FOUR ACES and his credit is 11905
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          4
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   34
+---------------------------------------------------
+Credit                       11905      (2005.00%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AS AC AD AH 2S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS AC AD AH 2S
+player wins with a FOUR ACES and his credit is 12700
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          0
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   35
+---------------------------------------------------
+Credit                       12700      (2671.43%)
+
+-cmd b
+player is betting 1
+
+-cmd d
+player's hand AS 2S 3S 4S 5S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS 2S 3S 4S 5S
+player wins with a STRAIGHT FLUSH and his credit is 12749
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          1
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   36
+---------------------------------------------------
+Credit                       12749      (2693.40%)
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand AS 2S 3S 4S 5S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS 2S 3S 4S 5S
+player wins with a STRAIGHT FLUSH and his credit is 12847
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          2
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   37
+---------------------------------------------------
+Credit                       12847      (2736.11%)
+
+-cmd b
+player is betting 3
+
+-cmd d
+player's hand AS 2S 3S 4S 5S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS 2S 3S 4S 5S
+player wins with a STRAIGHT FLUSH and his credit is 12994
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          3
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   38
+---------------------------------------------------
+Credit                       12994      (2797.30%)
+
+-cmd b
+player is betting 4
+
+-cmd d
+player's hand AS 2S 3S 4S 5S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS 2S 3S 4S 5S
+player wins with a STRAIGHT FLUSH and his credit is 13190
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          4
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   39
+---------------------------------------------------
+Credit                       13190      (2873.91%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AS 2S 3S 4S 5S
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS 2S 3S 4S 5S
+player wins with a STRAIGHT FLUSH and his credit is 13435
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             0
+Other                                   0
+---------------------------------------------------
+Total                                   40
+---------------------------------------------------
+Credit                       13435      (2962.50%)
+
+-cmd b
+player is betting 1
+
+-cmd d
+player's hand AS KS QS JS TS
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS KS QS JS TS
+player wins with a ROYAL FLUSH and his credit is 13684
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             1
+Other                                   0
+---------------------------------------------------
+Total                                   41
+---------------------------------------------------
+Credit                       13684      (3144.63%)
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand AS KS QS JS TS
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS KS QS JS TS
+player wins with a ROYAL FLUSH and his credit is 14182
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             2
+Other                                   0
+---------------------------------------------------
+Total                                   42
+---------------------------------------------------
+Credit                       14182      (3500.00%)
+
+-cmd b
+player is betting 3
+
+-cmd d
+player's hand AS KS QS JS TS
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS KS QS JS TS
+player wins with a ROYAL FLUSH and his credit is 14929
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             3
+Other                                   0
+---------------------------------------------------
+Total                                   43
+---------------------------------------------------
+Credit                       14929      (4011.90%)
+
+-cmd b
+player is betting 4
+
+-cmd d
+player's hand AS KS QS JS TS
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS KS QS JS TS
+player wins with a ROYAL FLUSH and his credit is 15925
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             4
+Other                                   0
+---------------------------------------------------
+Total                                   44
+---------------------------------------------------
+Credit                       15925      (4657.69%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AS KS QS JS TS
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AS KS QS JS TS
+player wins with a ROYAL FLUSH and his credit is 19920
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   0
+---------------------------------------------------
+Total                                   45
+---------------------------------------------------
+Credit                       19920      (7448.15%)
+
+-cmd b
+player is betting 1
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd h 1 2 3 4 5
+player's hand 2C 4D 6H 8S TC
+player loses and his credit is 19919
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   1
+---------------------------------------------------
+Total                                   46
+---------------------------------------------------
+Credit                       19919      (7393.38%)
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd h 1 2 3 4 5
+player's hand 2C 4D 6H 8S TC
+player loses and his credit is 19917
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   2
+---------------------------------------------------
+Total                                   47
+---------------------------------------------------
+Credit                       19917      (7286.23%)
+
+-cmd b
+player is betting 3
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd h 1 2 3 4 5
+player's hand 2C 4D 6H 8S TC
+player loses and his credit is 19914
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   3
+---------------------------------------------------
+Total                                   48
+---------------------------------------------------
+Credit                       19914      (7131.21%)
+
+-cmd b
+player is betting 4
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd h 1 2 3 4 5
+player's hand 2C 4D 6H 8S TC
+player loses and his credit is 19910
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   4
+---------------------------------------------------
+Total                                   49
+---------------------------------------------------
+Credit                       19910      (6934.48%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd h 1 2 3 4 5
+player's hand 2C 4D 6H 8S TC
+player loses and his credit is 19905
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   5
+---------------------------------------------------
+Total                                   50
+---------------------------------------------------
+Credit                       19905      (6703.33%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19900
+
+-cmd h
+player's hand 3C 5D 7H 9S JC
+player loses and his credit is 19900
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   6
+---------------------------------------------------
+Total                                   51
+---------------------------------------------------
+Credit                       19900      (6487.10%)
+
+-cmd b
+player is betting 1
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19899
+
+-cmd h 1
+player's hand 2C 3C 5D 7H 9S
+player loses and his credit is 19899
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   7
+---------------------------------------------------
+Total                                   52
+---------------------------------------------------
+Credit                       19899      (6445.51%)
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19897
+
+-cmd h 2
+player's hand 3C 4D 5D 7H 9S
+player loses and his credit is 19897
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   8
+---------------------------------------------------
+Total                                   53
+---------------------------------------------------
+Credit                       19897      (6363.92%)
+
+-cmd b
+player is betting 3
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19894
+
+-cmd h 3
+player's hand 3C 5D 6H 7H 9S
+player loses and his credit is 19894
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   9
+---------------------------------------------------
+Total                                   54
+---------------------------------------------------
+Credit                       19894      (6245.34%)
+
+-cmd b
+player is betting 4
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19890
+
+-cmd h 4
+player's hand 3C 5D 7H 8S 9S
+player loses and his credit is 19890
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   10
+---------------------------------------------------
+Total                                   55
+---------------------------------------------------
+Credit                       19890      (6093.94%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19885
+
+-cmd h 5
+player's hand 3C 5D 7H 9S TC
+player loses and his credit is 19885
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   11
+---------------------------------------------------
+Total                                   56
+---------------------------------------------------
+Credit                       19885      (5914.71%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19880
+
+-cmd h 1 2
+player's hand 2C 4D 3C 5D 7H
+player loses and his credit is 19880
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   12
+---------------------------------------------------
+Total                                   57
+---------------------------------------------------
+Credit                       19880      (5745.71%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19875
+
+-cmd h 1 3
+player's hand 2C 3C 6H 5D 7H
+player loses and his credit is 19875
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   13
+---------------------------------------------------
+Total                                   58
+---------------------------------------------------
+Credit                       19875      (5586.11%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19870
+
+-cmd h 1 4
+player's hand 2C 3C 5D 8S 7H
+player loses and his credit is 19870
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   14
+---------------------------------------------------
+Total                                   59
+---------------------------------------------------
+Credit                       19870      (5435.14%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19865
+
+-cmd h 1 5
+player's hand 2C 3C 5D 7H TC
+player loses and his credit is 19865
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                5
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   15
+---------------------------------------------------
+Total                                   60
+---------------------------------------------------
+Credit                       19865      (5292.11%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19860
+
+-cmd h 2 3
+player's hand 3C 4D 6H 5D 7H
+player wins with a STRAIGHT and his credit is 19885
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                6
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   15
+---------------------------------------------------
+Total                                   61
+---------------------------------------------------
+Credit                       19885      (5169.23%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19880
+
+-cmd h 2 4
+player's hand 3C 4D 5D 8S 7H
+player loses and his credit is 19880
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                6
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   16
+---------------------------------------------------
+Total                                   62
+---------------------------------------------------
+Credit                       19880      (5040.00%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19875
+
+-cmd h 2 5
+player's hand 3C 4D 5D 7H TC
+player loses and his credit is 19875
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                6
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   17
+---------------------------------------------------
+Total                                   63
+---------------------------------------------------
+Credit                       19875      (4917.07%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19870
+
+-cmd h 3 4
+player's hand 3C 5D 6H 8S 7H
+player loses and his credit is 19870
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                6
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   18
+---------------------------------------------------
+Total                                   64
+---------------------------------------------------
+Credit                       19870      (4800.00%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19865
+
+-cmd h 3 5
+player's hand 3C 5D 6H 7H TC
+player loses and his credit is 19865
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                6
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   19
+---------------------------------------------------
+Total                                   65
+---------------------------------------------------
+Credit                       19865      (4688.37%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19860
+
+-cmd h 4 5
+player's hand 3C 5D 7H 8S TC
+player loses and his credit is 19860
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                6
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   20
+---------------------------------------------------
+Total                                   66
+---------------------------------------------------
+Credit                       19860      (4581.82%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19855
+
+-cmd h 1 2 3
+player's hand 2C 4D 6H 3C 5D
+player wins with a STRAIGHT and his credit is 19880
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   20
+---------------------------------------------------
+Total                                   67
+---------------------------------------------------
+Credit                       19880      (4491.11%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19875
+
+-cmd h 1 2 4
+player's hand 2C 4D 3C 8S 5D
+player loses and his credit is 19875
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   21
+---------------------------------------------------
+Total                                   68
+---------------------------------------------------
+Credit                       19875      (4393.48%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19870
+
+-cmd h 1 2 5
+player's hand 2C 4D 3C 5D TC
+player loses and his credit is 19870
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   22
+---------------------------------------------------
+Total                                   69
+---------------------------------------------------
+Credit                       19870      (4300.00%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19865
+
+-cmd h 1 3 4
+player's hand 2C 3C 6H 8S 5D
+player loses and his credit is 19865
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   23
+---------------------------------------------------
+Total                                   70
+---------------------------------------------------
+Credit                       19865      (4210.42%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19860
+
+-cmd h 1 3 5
+player's hand 2C 3C 6H 5D TC
+player loses and his credit is 19860
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   24
+---------------------------------------------------
+Total                                   71
+---------------------------------------------------
+Credit                       19860      (4124.49%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19855
+
+-cmd h 1 4 5
+player's hand 2C 3C 5D 8S TC
+player loses and his credit is 19855
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   25
+---------------------------------------------------
+Total                                   72
+---------------------------------------------------
+Credit                       19855      (4042.00%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19850
+
+-cmd h 2 3 4
+player's hand 3C 4D 6H 8S 5D
+player loses and his credit is 19850
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   26
+---------------------------------------------------
+Total                                   73
+---------------------------------------------------
+Credit                       19850      (3962.75%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19845
+
+-cmd h 2 3 5
+player's hand 3C 4D 6H 5D TC
+player loses and his credit is 19845
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   27
+---------------------------------------------------
+Total                                   74
+---------------------------------------------------
+Credit                       19845      (3886.54%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19840
+
+-cmd h 2 4 5
+player's hand 3C 4D 5D 8S TC
+player loses and his credit is 19840
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   28
+---------------------------------------------------
+Total                                   75
+---------------------------------------------------
+Credit                       19840      (3813.21%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19835
+
+-cmd h 3 4 5
+player's hand 3C 5D 6H 8S TC
+player loses and his credit is 19835
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   29
+---------------------------------------------------
+Total                                   76
+---------------------------------------------------
+Credit                       19835      (3742.59%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19830
+
+-cmd h 1 2 3 4
+player's hand 2C 4D 6H 8S 3C
+player loses and his credit is 19830
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   30
+---------------------------------------------------
+Total                                   77
+---------------------------------------------------
+Credit                       19830      (3674.55%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19825
+
+-cmd h 1 2 3 5
+player's hand 2C 4D 6H 3C TC
+player loses and his credit is 19825
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   31
+---------------------------------------------------
+Total                                   78
+---------------------------------------------------
+Credit                       19825      (3608.93%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19820
+
+-cmd h 1 2 4 5
+player's hand 2C 4D 3C 8S TC
+player loses and his credit is 19820
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   32
+---------------------------------------------------
+Total                                   79
+---------------------------------------------------
+Credit                       19820      (3545.61%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19815
+
+-cmd h 1 3 4 5
+player's hand 2C 3C 6H 8S TC
+player loses and his credit is 19815
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   33
+---------------------------------------------------
+Total                                   80
+---------------------------------------------------
+Credit                       19815      (3484.48%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19810
+
+-cmd h 2 3 4 5
+player's hand 3C 4D 6H 8S TC
+player loses and his credit is 19810
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   34
+---------------------------------------------------
+Total                                   81
+---------------------------------------------------
+Credit                       19810      (3425.42%)
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 19805
+
+-cmd h 1 2 3 4 5
+player's hand 2C 4D 6H 8S TC
+player loses and his credit is 19805
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         5
+Two Pair                                5
+Three of a Kind                         5
+Straight                                7
+Flush                                   5
+Full House                              5
+Four of a Kind                          5
+Straight Flush                          5
+Royal Flush                             5
+Other                                   35
+---------------------------------------------------
+Total                                   82
+---------------------------------------------------
+Credit                       19805      (3368.33%)

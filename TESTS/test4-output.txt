@@ -1,0 +1,1513 @@
+# java -jar videopoker.jar -d 200 ./TESTS/cmd-file4.txt ./TESTS/card-file4.txt
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 5S 7D QS 6D TH
+
+-cmd a
+player should hold card 3
+
+-cmd h 3
+player's hand JS JH QS 5H 6S
+player wins with a JACKS OR BETTER and his credit is 200
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 3C KS TC 3S 9S
+
+-cmd a
+player should hold cards 1 4
+
+-cmd h 1 4
+player's hand 3C QC JH 3S 5H
+player loses and his credit is 195
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7S AS 8H 5D 4D
+
+-cmd a
+player should hold card 2
+
+-cmd h 2
+player's hand 8S AS 3H 6D KH
+player loses and his credit is 190
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2D 3S 9D 7H 7D
+
+-cmd a
+player should hold cards 4 5
+
+-cmd h 4 5
+player's hand 3C JD 6H 7H 7D
+player loses and his credit is 185
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 3C 5H JC TS TH
+
+-cmd a
+player should hold cards 4 5
+
+-cmd h 4 5
+player's hand 8H 5D JD TS TH
+player loses and his credit is 180
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8C 3D AD AS QH
+
+-cmd a
+player should hold cards 3 4
+
+-cmd h 3 4
+player's hand 6C 4H AD AS 8S
+player wins with a JACKS OR BETTER and his credit is 180
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QH TS KD 4S 8C
+
+-cmd a
+player should hold cards 1 3
+
+-cmd h 1 3
+player's hand QH 6S KD 9S KS
+player wins with a JACKS OR BETTER and his credit is 180
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 9D 3C 8C TC 6D
+
+-cmd a
+player should hold cards 1 3 4 5
+
+-cmd h 1 3 4 5
+player's hand 9D QD 8C TC 6D
+player loses and his credit is 175
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8D TH 6C 2C QH
+
+-cmd a
+player should hold cards 2 5
+
+-cmd h 2 5
+player's hand 8H TH 5C 6H QH
+player loses and his credit is 170
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand KC 4S 2C 6C 6D
+
+-cmd a
+player should hold cards 4 5
+
+-cmd h 4 5
+player's hand 3C TH 4D 6C 6D
+player loses and his credit is 165
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 6H QD 3S 4S 4D
+
+-cmd a
+player should hold cards 4 5
+
+-cmd h 4 5
+player's hand AC QH QC 4S 4D
+player wins with a TWO PAIR and his credit is 165
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 3D 6C 5S 9D JC
+
+-cmd a
+player should hold card 5
+
+-cmd h 5
+player's hand 5C JD QD TC JC
+player wins with a JACKS OR BETTER and his credit is 165
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AH KD 5C TC 9D
+
+-cmd a
+player should hold card 1
+
+-cmd h 1 2
+player's hand AH KD 7H 7D QD
+player loses and his credit is 160
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 4D 2C 7C KD TS
+
+-cmd a
+player should hold card 4
+
+-cmd h 4
+player's hand JH 9D 5D KD 9C
+player loses and his credit is 155
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 6S 7H QS 8D 7D
+
+-cmd a
+player should hold cards 2 5
+
+-cmd h 2 5
+player's hand KC 7H 8C 3S 7D
+player loses and his credit is 150
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 3D KC QH 6S QC
+
+-cmd a
+player should hold cards 3 5
+
+-cmd h 3 5
+player's hand AC JS QH 9S QC
+player wins with a JACKS OR BETTER and his credit is 150
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 9S JS 6D QD 8S
+
+-cmd a
+player should hold cards 1 2 5
+
+-cmd h 1 2 5
+player's hand 9S JS KS TH 8S
+player loses and his credit is 145
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2D 5H 9S KH 8S
+
+-cmd a
+player should hold card 4
+
+-cmd h 4
+player's hand 5C 7H QD KH AH
+player loses and his credit is 140
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QH JD 9C 6S 5S
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2
+player's hand QH JD 3S 2S KC
+player loses and his credit is 135
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 5C KS 8D 7S 3C
+
+-cmd a
+player should hold card 2
+
+-cmd h 2
+player's hand 2C KS 7C KH AS
+player wins with a JACKS OR BETTER and his credit is 135
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 9H 4D 3C 2S 8S
+
+-cmd a
+player should not hold cards
+
+-cmd h
+player's hand 5S KD 3D 9C 5H
+player loses and his credit is 130
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 3S AS 2D TD 8S
+
+-cmd a
+player should hold cards 1 2 5
+
+-cmd h 1 2 5
+player's hand 3S AS 2H 6H 8S
+player loses and his credit is 125
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand JH 5C 6H 3D JD
+
+-cmd a
+player should hold cards 1 5
+
+-cmd h 1 5
+player's hand JH QC QD 9S JD
+player wins with a TWO PAIR and his credit is 125
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 6D AC 3S 6H 7H
+
+-cmd a
+player should hold cards 1 4
+
+-cmd h 1 4
+player's hand 6D 5S QD 6H KH
+player loses and his credit is 120
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 5H 4C 7S 3H 8S
+
+-cmd a
+player should hold cards 1 2 3 5
+
+-cmd h 1 2 3 5
+player's hand 5H 4C 7S TC 8S
+player loses and his credit is 115
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 5D 4D 6S 5H QD
+
+-cmd a
+player should hold cards 1 4
+
+-cmd h 1 4
+player's hand 5D 8C QH 5H 4C
+player loses and his credit is 110
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AS QD 5S 5D 8D
+
+-cmd a
+player should hold cards 3 4
+
+-cmd h 3 4
+player's hand TD 3S 5S 5D 9C
+player loses and his credit is 105
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 4C 3D AH 7D TS
+
+-cmd a
+player should hold card 3
+
+-cmd h 3
+player's hand 7C AC AH 7H KC
+player wins with a TWO PAIR and his credit is 105
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand KD 7S TH KC KS
+
+-cmd a
+player should hold cards 1 4 5
+
+-cmd h 1 4 5
+player's hand KD AS AD KC KS
+player wins with a FULL HOUSE and his credit is 150
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 6H 3C 3S 5S 2S
+
+-cmd a
+player should hold cards 2 3
+
+-cmd h 2 3
+player's hand 4D 3C 3S 2D TD
+player loses and his credit is 145
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AD 8H KC QS TH
+
+-cmd a
+player should hold cards 1 3 4 5
+
+-cmd h 1 3 4 5
+player's hand AD 9S KC QS TH
+player loses and his credit is 140
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 5C TC 9D 2C 6C
+
+-cmd a
+player should hold cards 1 2 4 5
+
+-cmd h 1 2 4 5
+player's hand 5C TC AC 2C 6C
+player wins with a FLUSH and his credit is 170
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 3H QD 7H 2D 3S
+
+-cmd a
+player should hold cards 1 5
+
+-cmd h 1 5
+player's hand 3H 7D 4D QC 3S
+player loses and his credit is 165
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7D QH JH 9C 2H
+
+-cmd a
+player should hold cards 2 3
+
+-cmd h 2 3
+player's hand KH QH JH QC 2D
+player wins with a JACKS OR BETTER and his credit is 165
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand KH 8D 7D 2S AC
+
+-cmd a
+player should hold card 5
+
+-cmd h 1 5
+player's hand KH 8C 6S 6H AC
+player loses and his credit is 160
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QC TS JS 7C 5D
+
+-cmd a
+player should hold cards 2 3
+
+-cmd h 1 3
+player's hand QC 3H JS 2C QD
+player wins with a JACKS OR BETTER and his credit is 160
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 6S 8H JD KH AC
+
+-cmd a
+player should hold cards 3 4
+
+-cmd h 3 4
+player's hand QH 7C JD KH 3H
+player loses and his credit is 155
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 6C 3D 7H 4C 8C
+
+-cmd a
+player should hold cards 1 4 5
+
+-cmd h 1 4 5
+player's hand 6C AH 2H 4C 8C
+player loses and his credit is 150
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 7D 9S JS QD
+
+-cmd a
+player should hold cards 4 5
+
+-cmd h 4 5
+player's hand 8S AD 4S JS QD
+player loses and his credit is 145
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 4C 2D JH 6S 2H
+
+-cmd a
+player should hold cards 2 5
+
+-cmd h 2 5
+player's hand 8C 2D AD 2C 2H
+player wins with a THREE OF A KIND and his credit is 155
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 4C 5S 8H QH 6C
+
+-cmd a
+player should hold card 4
+
+-cmd h 4
+player's hand TH KS 2D QH 9S
+player loses and his credit is 150
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 6S TH 7D 3S 3D
+
+-cmd a
+player should hold cards 4 5
+
+-cmd h 4 5
+player's hand AC 6D QH 3S 3D
+player loses and his credit is 145
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 9D JH 4H 5C 4S
+
+-cmd a
+player should hold cards 3 5
+
+-cmd h 3 5
+player's hand 6H 5H 4H KD 4S
+player loses and his credit is 140
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand KC AH 5H QH 3S
+
+-cmd a
+player should hold cards 2 3 4
+
+-cmd h 2 3 4
+player's hand 4H AH 5H QH 8D
+player loses and his credit is 135
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7H 4C 8S KS QC
+
+-cmd a
+player should hold cards 4 5
+
+-cmd h 4 5
+player's hand KC 3D AH KS QC
+player wins with a JACKS OR BETTER and his credit is 135
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 3H 9D AS 7C 5S
+
+-cmd a
+player should hold card 3
+
+-cmd h 3
+player's hand 7S 2H AS 4H 4D
+player loses and his credit is 130
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand JD TC 6S 4D KD
+
+-cmd a
+player should hold cards 1 4 5
+
+-cmd h 1 4 5
+player's hand JD 4H JS 4D KD
+player wins with a TWO PAIR and his credit is 130
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7S AC 3H 7C JS
+
+-cmd a
+player should hold cards 1 4
+
+-cmd h 1 4
+player's hand 7S 9C 3C 7C JD
+player loses and his credit is 125
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AD TS 6C 9C 8C
+
+-cmd a
+player should hold cards 3 4 5
+
+-cmd h 3 4 5
+player's hand 5H KC 6C 9C 8C
+player loses and his credit is 120
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 6S KH JH 3H JD
+
+-cmd a
+player should hold cards 3 5
+
+-cmd h 3 5
+player's hand 4S 8S JH 3C JD
+player wins with a JACKS OR BETTER and his credit is 120
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QH 3S JD TS 2C
+
+-cmd a
+player should hold cards 1 3
+
+-cmd h 1 3
+player's hand QH 4H JD KC 2H
+player loses and his credit is 115
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C AS AD TS 3D
+
+-cmd a
+player should hold cards 2 3
+
+-cmd h 2 3
+player's hand 4H AS AD QH JS
+player wins with a JACKS OR BETTER and his credit is 115
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 5S 8S 9C 2D 3D
+
+-cmd a
+player should not hold cards
+
+-cmd h
+player's hand 4S QH 3S QC 8C
+player wins with a JACKS OR BETTER and his credit is 115
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8H 4D 5S 9D AC
+
+-cmd a
+player should hold card 5
+
+-cmd h 5
+player's hand 7D QC QS 6H AC
+player wins with a JACKS OR BETTER and his credit is 115
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand JS 7C 2H 8C 9D
+
+-cmd a
+player should hold cards 1 2 4 5
+
+-cmd h 1 2 4 5
+player's hand JS 7C 6C 8C 9D
+player loses and his credit is 110
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand JD 8C JS 8S 6D
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand JD 8C JS 8S 4D
+player wins with a TWO PAIR and his credit is 110
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 5D 3D 8C 7C QH
+
+-cmd a
+player should hold card 5
+
+-cmd h 5
+player's hand 6C 4H QC AH QH
+player wins with a JACKS OR BETTER and his credit is 110
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QH KC 8S AD JC
+
+-cmd a
+player should hold cards 1 2 4 5
+
+-cmd h 1 2 4 5
+player's hand QH KC 5D AD JC
+player loses and his credit is 105
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand TC AH 5D AD 2C
+
+-cmd a
+player should hold cards 2 4
+
+-cmd h 2 4
+player's hand KD AH 9D AD 4H
+player wins with a JACKS OR BETTER and his credit is 105
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8S TC 2C 5S 4D
+
+-cmd a
+player should not hold cards
+
+-cmd h
+player's hand 8C 3D 7D QH TD
+player loses and his credit is 100
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 5S 7C JC QC 9C
+
+-cmd a
+player should hold cards 2 3 4 5
+
+-cmd h 2 3 4 5
+player's hand 8C 7C JC QC 9C
+player wins with a FLUSH and his credit is 130
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand TD AH 6H AS 5D
+
+-cmd a
+player should hold cards 2 4
+
+-cmd h 2 4
+player's hand 8C AH 9D AS 4C
+player wins with a JACKS OR BETTER and his credit is 130
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2H AH QD 9C 4D
+
+-cmd a
+player should hold card 2
+
+-cmd h 2
+player's hand 7S AH AS TC 8H
+player wins with a JACKS OR BETTER and his credit is 130
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand TH 9D 3S 7H TS
+
+-cmd a
+player should hold cards 1 5
+
+-cmd h 1 5
+player's hand TH TC 7C TD TS
+player wins with a FOUR 5-K and his credit is 375
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand JC 9C TC 7S JD
+
+-cmd a
+player should hold cards 1 5
+
+-cmd h 1 5
+player's hand JC 2H 4C 8C JD
+player wins with a JACKS OR BETTER and his credit is 375
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QH KC 4C 2C 9C
+
+-cmd a
+player should hold cards 2 3 4 5
+
+-cmd h 2 3 4 5
+player's hand AS KC 4C 2C 9C
+player loses and his credit is 370
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 5H AC JD 4D KS
+
+-cmd a
+player should hold cards 3 5
+
+-cmd h 3 5
+player's hand TH 2H JD QH KS
+player loses and his credit is 365
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 4H 7C KD 5D 3S
+
+-cmd a
+player should hold card 3
+
+-cmd h 3
+player's hand AH 5S KD 8H TS
+player loses and his credit is 360
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QC QH TD 2C 7D
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2
+player's hand QC QH 8D 4D 9D
+player wins with a JACKS OR BETTER and his credit is 360
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand KD 5H 5C 3C AD
+
+-cmd a
+player should hold cards 2 3
+
+-cmd h 2 3
+player's hand QC 5H 5C QS 8H
+player wins with a TWO PAIR and his credit is 360
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 3H 2H 9C TD 7C
+
+-cmd a
+player should not hold cards
+
+-cmd h
+player's hand 9S JD JC 5C TC
+player wins with a JACKS OR BETTER and his credit is 360
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7D 7H 9D 8H 6D
+
+-cmd a
+player should hold cards 2 3 4 5
+
+-cmd h 1 2
+player's hand 7D 7H 4C 5D 4D
+player wins with a TWO PAIR and his credit is 360
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 3S JH JD 2C AS
+
+-cmd a
+player should hold cards 2 3
+
+-cmd h 2 3
+player's hand 2S JH JD 5C JS
+player wins with a THREE OF A KIND and his credit is 370
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QS KS 6H 7C 6D
+
+-cmd a
+player should hold cards 3 5
+
+-cmd h 3 5
+player's hand 4H KH 6H TS 6D
+player loses and his credit is 365
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2H 4S 3H 3S TD
+
+-cmd a
+player should hold cards 3 4
+
+-cmd h 3 4
+player's hand 5S 8D 3H 3S TH
+player loses and his credit is 360
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QD 3C JD 7C 3D
+
+-cmd a
+player should hold cards 2 5
+
+-cmd h 2 5
+player's hand 9H 3C 5H TH 3D
+player loses and his credit is 355
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 5D 7H JS 2C 9H
+
+-cmd a
+player should hold card 3
+
+-cmd h 3
+player's hand 8H 7S JS AD 5H
+player loses and his credit is 350
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7S 2C AH JD AS
+
+-cmd a
+player should hold cards 3 5
+
+-cmd h 3 5
+player's hand 5H TC AH AD AS
+player wins with a THREE OF A KIND and his credit is 360
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 5D 3D 9C 2D 5H
+
+-cmd a
+player should hold cards 1 5
+
+-cmd h 1 5
+player's hand 5D 5C 3H 7D 5H
+player wins with a THREE OF A KIND and his credit is 370
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 6S 3S AC JC KC
+
+-cmd a
+player should hold cards 3 4 5
+
+-cmd h 3 4 5
+player's hand 2D 9S AC JC KC
+player loses and his credit is 365
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 5H 3D QD 4H 9D
+
+-cmd a
+player should hold cards 2 3 5
+
+-cmd h 2 3 5
+player's hand 5C 3D QD 9S 9D
+player loses and his credit is 360
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 5C KC 6C 4S QH
+
+-cmd a
+player should hold cards 1 2 3
+
+-cmd h 2 5
+player's hand 6D KC AC 4D QH
+player loses and his credit is 355
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 9C KH 5C 8S 8D
+
+-cmd a
+player should hold cards 4 5
+
+-cmd h 4 5
+player's hand 2C TH 2D 8S 8D
+player wins with a TWO PAIR and his credit is 355
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AD 8D 8H KH 5D
+
+-cmd a
+player should hold cards 2 3
+
+-cmd h 2 3
+player's hand 5C 8D 8H 9D JH
+player loses and his credit is 350
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7S 5D 8H JD JS
+
+-cmd a
+player should hold cards 4 5
+
+-cmd h 4 5
+player's hand 3H 4H 7C JD JS
+player wins with a JACKS OR BETTER and his credit is 350
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 9C TS JH 8S 8C
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand 9C TS JH 8S 2D
+player loses and his credit is 345
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2D 8S 9H 7S 6S
+
+-cmd a
+player should hold cards 2 3 4 5
+
+-cmd h 2 3 4 5
+player's hand TC 8S 9H 7S 6S
+player wins with a STRAIGHT and his credit is 365
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AH 7S TS 4C JS
+
+-cmd a
+player should hold cards 2 3 5
+
+-cmd h 2 3 5
+player's hand AD 7S TS JH JS
+player wins with a JACKS OR BETTER and his credit is 365
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 9S TC 6D 7S AS
+
+-cmd a
+player should hold cards 1 4 5
+
+-cmd h 1 4 5
+player's hand 9S 3H AC 7S AS
+player wins with a JACKS OR BETTER and his credit is 365
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand TS 9H AC QS KD
+
+-cmd a
+player should hold cards 1 3 4 5
+
+-cmd h 1 3 4 5
+player's hand TS QD AC QS KD
+player wins with a JACKS OR BETTER and his credit is 365
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8C 3S AS TC 4D
+
+-cmd a
+player should hold card 3
+
+-cmd h 3
+player's hand 7D 8S AS 3C 9H
+player loses and his credit is 360
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 9D 7D KH 6C 7C
+
+-cmd a
+player should hold cards 2 5
+
+-cmd h 2 5
+player's hand AC 7D AD 8S 7C
+player wins with a TWO PAIR and his credit is 360
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 4S 9H TH JC 3H
+
+-cmd a
+player should hold card 4
+
+-cmd h 4
+player's hand 6D AH 5C JC 2D
+player loses and his credit is 355
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 9H 8C TH 6D 7C
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 9H 8C TH 6D 7C
+player wins with a STRAIGHT and his credit is 375
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QD 4C 7S 2S 9H
+
+-cmd a
+player should hold card 1
+
+-cmd h 1
+player's hand QD 8C 6D KH 8S
+player loses and his credit is 370
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AS 8C 7C 8D QS
+
+-cmd a
+player should hold cards 2 4
+
+-cmd h 2 4
+player's hand 9H 8C JD 8D 6D
+player loses and his credit is 365
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8C JC 8H 2D 9D
+
+-cmd a
+player should hold cards 1 3
+
+-cmd h 1 3
+player's hand 8C 7C 8H 4H AC
+player loses and his credit is 360
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QH 4S TS 2H TH
+
+-cmd a
+player should hold cards 3 5
+
+-cmd h 3 5
+player's hand JS QS TS 2C TH
+player loses and his credit is 355
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 6C 2D AD 7D 5S
+
+-cmd a
+player should hold cards 2 3 4
+
+-cmd h 2 3 4
+player's hand QS 2D AD 7D 9D
+player loses and his credit is 350
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand KC 8D AH 3C 2S
+
+-cmd a
+player should hold card 3
+
+-cmd h 1 3
+player's hand KC 5C AH 9C 9D
+player loses and his credit is 345
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7H QC JC 8S QS
+
+-cmd a
+player should hold cards 2 5
+
+-cmd h 2 5
+player's hand 4D QC 7C TC QS
+player wins with a JACKS OR BETTER and his credit is 345
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2D AC 9H TD 5S
+
+-cmd a
+player should hold card 2
+
+-cmd h 2
+player's hand 6H AC JC 7C TC
+player loses and his credit is 340
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand JS KC 2H 8H QH
+
+-cmd a
+player should hold cards 1 2 5
+
+-cmd h 3 4 5
+player's hand 4D QS 2H 8H QH
+player wins with a JACKS OR BETTER and his credit is 340
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 6D KD KS QC AS
+
+-cmd a
+player should hold cards 2 3
+
+-cmd h 2 3
+player's hand 9D KD KS 3S 2D
+player wins with a JACKS OR BETTER and his credit is 340
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 4C KC TH TS KD
+
+-cmd a
+player should hold cards 2 3 4 5
+
+-cmd h 2 3 4 5
+player's hand 4H KC TH TS KD
+player wins with a TWO PAIR and his credit is 340
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 6C 3S 7S QC 9H
+
+-cmd a
+player should hold card 4
+
+-cmd h 4
+player's hand JH 6S AS QC AD
+player wins with a JACKS OR BETTER and his credit is 340
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand JH 9S 5D 6S QC
+
+-cmd a
+player should hold cards 1 5
+
+-cmd h 1 5
+player's hand JH 5S QD 2S QC
+player wins with a JACKS OR BETTER and his credit is 340
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7C 4H 4D 4S QD
+
+-cmd a
+player should hold cards 2 3 4
+
+-cmd h 2 3 4
+player's hand 3C 4H 4D 4S 8D
+player wins with a THREE OF A KIND and his credit is 350
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8C 9C 4H QC 3D
+
+-cmd a
+player should hold cards 1 2 4
+
+-cmd h 1 2 4
+player's hand 8C 9C 9D QC TC
+player loses and his credit is 345
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand TS 8S 6H 4S 7S
+
+-cmd a
+player should hold cards 1 2 4 5
+
+-cmd h 1 2 4 5
+player's hand TS 8S AD 4S 7S
+player loses and his credit is 340
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand TD KH 4D 7C AD
+
+-cmd a
+player should hold cards 1 3 5
+
+-cmd h 1 3 5
+player's hand TD QH 4D QD AD
+player wins with a JACKS OR BETTER and his credit is 340
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8C 2H JD 3D KH
+
+-cmd a
+player should hold cards 3 5
+
+-cmd h 3 5
+player's hand TS 4C JD 6S KH
+player loses and his credit is 335
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7D AS JD 5S 9D
+
+-cmd a
+player should hold cards 1 3 5
+
+-cmd h 1 3 5
+player's hand 7D AD JD KS 9D
+player loses and his credit is 330
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8C 3D 6D 5D 9D
+
+-cmd a
+player should hold cards 2 3 4 5
+
+-cmd h 2 3 4 5
+player's hand KC 3D 6D 5D 9D
+player loses and his credit is 325
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AC 8C 5H 7S 2S
+
+-cmd a
+player should hold card 1
+
+-cmd h 1
+player's hand AC 7H 3C 4C 8H
+player loses and his credit is 320
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         30
+Two Pair                                10
+Three of a Kind                         5
+Straight                                2
+Flush                                   2
+Full House                              1
+Four of a Kind                          1
+Straight Flush                          0
+Royal Flush                             0
+Other                                   64
+---------------------------------------------------
+Total                                   115
+---------------------------------------------------
+Credit                       320        (120.87%)

@@ -1,0 +1,538 @@
+-jar videopoker.jar -d 10000 ./TESTS/cmd-file1.txt ./TESTS/card-file1.txt
+
+-cmd b
+player is betting 1
+
+-cmd d
+player's hand KC QC JC TC 9C
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand KC QC JC TC 9C
+player wins with a STRAIGHT FLUSH and his credit is 10049
+
+-cmd b
+player is betting 1
+
+-cmd d
+player's hand AD KD QS JD TD
+
+-cmd a
+player should hold cards 1 2 4 5
+
+-cmd h 1 2 4 5
+player's hand AD KD QD JD TD
+player wins with a ROYAL FLUSH and his credit is 10298
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand AS KS JS TS 9S
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand AS KS JS TS QS
+player wins with a ROYAL FLUSH and his credit is 10796
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand AH AD AS 2C 2S
+
+-cmd a
+player should hold cards 1 2 3
+
+-cmd h 1 2 3
+player's hand AH AD AS AC KC
+player wins with a FOUR ACES and his credit is 11114
+
+-cmd b
+player is betting 3
+
+-cmd d
+player's hand 4C 4S 4H 5D 5C
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 4C 4S 4H 5D 5C
+player wins with a FULL HOUSE and his credit is 11141
+
+-cmd b
+player is betting 3
+
+-cmd d
+player's hand 5S 6S 7S 8S JS
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 5S 6S 7S 8S JS
+player wins with a FLUSH and his credit is 11159
+
+-cmd b
+player is betting 4
+
+-cmd d
+player's hand 3D 4H 5H 6H 7H
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand 3D 4H 5H 6H 7H
+player wins with a STRAIGHT and his credit is 11175
+
+-cmd b
+player is betting 4
+
+-cmd d
+player's hand AC KD QD JD TS
+
+-cmd a
+player should hold cards 1 2 3 4 5
+
+-cmd h 1 2 3 4 5
+player's hand AC KD QD JD TS
+player wins with a STRAIGHT and his credit is 11191
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand KC QC JC 9C 4D
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand KC QC JC 9C TC
+player wins with a STRAIGHT FLUSH and his credit is 11436
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AH AS KD KS QS
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand AH AS KD KS 2S
+player wins with a TWO PAIR and his credit is 11436
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand JC JD 4D 7D 9D
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2
+player's hand JC JD AS AC AD
+player wins with a FULL HOUSE and his credit is 11481
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QS QH JH AH 2C
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2
+player's hand QS QH AS AC AD
+player wins with a FULL HOUSE and his credit is 11526
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8C JC QC KC 9H
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand 8C JC QC KC AC
+player wins with a FLUSH and his credit is 11556
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2S 5S 7S 9S 7H
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand 2S 5S 7S 9S AS
+player wins with a FLUSH and his credit is 11586
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand TD JD QC KD 5S
+
+-cmd a
+player should hold cards 1 2 4
+
+-cmd h 1 2 4
+player's hand TD JD AD KD QD
+player wins with a ROYAL FLUSH and his credit is 15581
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand TH QH AH TD 8C
+
+-cmd a
+player should hold cards 1 2 3
+
+-cmd h 1 2 3
+player's hand TH QH AH KH JH
+player wins with a ROYAL FLUSH and his credit is 19576
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7C 7D 8H 9S TD
+
+-cmd a
+player should hold cards 2 3 4 5
+
+-cmd h 2 3 4 5
+player's hand JS 7D 8H 9S TD
+player wins with a STRAIGHT and his credit is 19596
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7D 8D 9D TS 4H
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand 7D 8D 9D TS JS
+player wins with a STRAIGHT and his credit is 19616
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 7C 7D 8D 9D 3S
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2
+player's hand 7C 7D AS AD AC
+player wins with a FULL HOUSE and his credit is 19661
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand KS QD JC 9H 9C
+
+-cmd a
+player should hold cards 4 5
+
+-cmd h 4 5
+player's hand AS AD AC 9H 9C
+player wins with a FULL HOUSE and his credit is 19706
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AC KD QH JH 8H
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand AC KD QH JH TS
+player wins with a STRAIGHT and his credit is 19726
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AC KD QH JH 9S
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand AC KD QH JH TS
+player wins with a STRAIGHT and his credit is 19746
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AC KD QH JH 2C
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand AC KD QH JH TS
+player wins with a STRAIGHT and his credit is 19766
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2H QS JS 9D 8S
+
+-cmd a
+player should hold cards 2 3 5
+
+-cmd h 2 3 5
+player's hand 9S QS JS TS 8S
+player wins with a STRAIGHT FLUSH and his credit is 20011
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8H TH JH 3S 5D
+
+-cmd a
+player should hold cards 1 2 3
+
+-cmd h 1 2 3
+player's hand 8H TH JH 9H QH
+player wins with a STRAIGHT FLUSH and his credit is 20256
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand KS QD JD 9H 7C
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand KS QD JD 9H TS
+player wins with a STRAIGHT and his credit is 20276
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AH KC QC TD 6C
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand AH KC QC TD JS
+player wins with a STRAIGHT and his credit is 20296
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand KH QS JS 9D 3C
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand KH QS JS 9D TS
+player wins with a STRAIGHT and his credit is 20316
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand KC QH JS 9H 8H
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand KC QH JS 9H TS
+player wins with a STRAIGHT and his credit is 20336
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QD JD 7D 5H 4S
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2
+player's hand QD JD AD KD TD
+player wins with a ROYAL FLUSH and his credit is 24331
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8S 9H JD QD 2C
+
+-cmd a
+player should hold cards 3 4
+
+-cmd h 3 4
+player's hand AD KD JD QD TD
+player wins with a ROYAL FLUSH and his credit is 28326
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand QS JS 2H 3H 4H
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2
+player's hand QS JS AD KD TD
+player wins with a STRAIGHT and his credit is 28346
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand KH JH 3H 5S 6C
+
+-cmd a
+player should hold cards 1 2 3
+
+-cmd h 1 2 3
+player's hand KH JH 3H AH QH
+player wins with a FLUSH and his credit is 28376
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8S 9C JD QD 4D
+
+-cmd a
+player should hold cards 3 4
+
+-cmd h 3 4
+player's hand AD KD JD QD TD
+player wins with a ROYAL FLUSH and his credit is 32371
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 2C 3D 5H JC AC
+
+-cmd a
+player should hold cards 1 4 5
+
+-cmd h 1 4 5
+player's hand 2C KC TC JC AC
+player wins with a FLUSH and his credit is 32401
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand KH JH TS 9D 6C
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2
+player's hand KH JH AH QH TH
+player wins with a ROYAL FLUSH and his credit is 36396
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand AC JC 2S 3S 5S
+
+-cmd a
+player should hold cards 1 2
+
+-cmd h 1 2
+player's hand AC JC KC QC TC
+player wins with a ROYAL FLUSH and his credit is 40391
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8D 9D JH QD 4C
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand 8D 9D JH QD TS
+player wins with a STRAIGHT and his credit is 40411
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8S 9D JD QH 3D
+
+-cmd a
+player should hold cards 1 2 3 4
+
+-cmd h 1 2 3 4
+player's hand 8S 9D JD QH TS
+player wins with a STRAIGHT and his credit is 40431
+
+-cmd b
+player is betting 5
+
+-cmd d
+player's hand 8C 9C TD QC 2H
+
+-cmd a
+player should hold cards 1 2 4
+
+-cmd h 1 2 4
+player's hand 8C 9C TC QC JC
+player wins with a STRAIGHT FLUSH and his credit is 40676
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         0
+Two Pair                                1
+Three of a Kind                         0
+Straight                                14
+Flush                                   5
+Full House                              5
+Four of a Kind                          1
+Straight Flush                          5
+Royal Flush                             9
+Other                                   0
+---------------------------------------------------
+Total                                   40
+---------------------------------------------------
+Credit                       40676      (17142.22%)

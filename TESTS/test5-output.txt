@@ -1,0 +1,254 @@
+# java -jar videopoker.jar -d 10000 ./TESTS/cmd-file5.txt ./TESTS/card-file5.txt
+
+-cmd h
+h: illegal command
+
+-cmd h
+h: illegal command
+
+-cmd d
+d: illegal command
+
+-cmd a
+a: illegal command
+
+-cmd b 10
+b: illegal amount
+
+-cmd b -1
+b: illegal amount
+
+-cmd b 0
+b: illegal amount
+
+-cmd b
+player is betting 1
+
+-cmd c
+c: illegal command
+
+-cmd 985
+985: illegal command
+
+-cmd t
+t: illegal command
+
+-cmd 739
+739: illegal command
+
+-cmd a
+a: illegal command
+
+-cmd 84
+84: illegal command
+
+-cmd r
+r: illegal command
+
+-cmd 576
+576: illegal command
+
+-cmd 398
+398: illegal command
+
+-cmd 41
+41: illegal command
+
+-cmd b
+b: illegal command
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd h 3
+player's hand 3C 5D 6H 7H 9S
+player loses and his credit is 9999
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         0
+Two Pair                                0
+Three of a Kind                         0
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   1
+---------------------------------------------------
+Total                                   1
+---------------------------------------------------
+Credit                       9999       (0.00%)
+
+-cmd b
+player is betting 2
+
+-cmd $
+player's credit is 9997
+
+-cmd s
+s: illegal command
+
+-cmd a
+a: illegal command
+
+-cmd $
+player's credit is 9997
+
+-cmd s
+s: illegal command
+
+-cmd b
+b: illegal command
+
+-cmd $
+player's credit is 9997
+
+-cmd s
+s: illegal command
+
+-cmd a
+a: illegal command
+
+-cmd $
+player's credit is 9997
+
+-cmd s
+s: illegal command
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd $
+player's credit is 9997
+
+-cmd s
+s: illegal command
+
+-cmd a
+player should not hold cards
+
+-cmd $
+player's credit is 9997
+
+-cmd s
+s: illegal command
+
+-cmd h
+player's hand 3C 5D 7H 9S JC
+player loses and his credit is 9997
+
+-cmd $
+player's credit is 9997
+
+Hand                                    Nb
+---------------------------------------------------
+Jacks or Better                         0
+Two Pair                                0
+Three of a Kind                         0
+Straight                                0
+Flush                                   0
+Full House                              0
+Four of a Kind                          0
+Straight Flush                          0
+Royal Flush                             0
+Other                                   2
+---------------------------------------------------
+Total                                   2
+---------------------------------------------------
+Credit                       9997       (0.00%)
+
+-cmd a
+a: illegal command
+
+-cmd bb
+bb: illegal command
+
+-cmd b
+player is betting 2
+
+-cmd d
+player's hand 2C 4D 6H 8S TC
+
+-cmd h
+h: illegal command
+
+-cmd h
+h: illegal command
+
+-cmd h
+h: illegal command
+
+-cmd h
+h: illegal command
+
+-cmd h
+h: illegal command
+
+-cmd h
+player's hand 3C 5D 7H 9S JC
+player loses and his credit is 9995
+
+-cmd ?
+?: illegal command
+
+-cmd *
+*: illegal command
+
+-cmd `
+`: illegal command
+
+-cmd ^
+^: illegal command
+
+-cmd _
+_: illegal command
+
+-cmd :
+:: illegal command
+
+-cmd ;
+;: illegal command
+
+-cmd *
+*: illegal command
+
+-cmd @
+@: illegal command
+
+-cmd bb
+bb: illegal command
+
+-cmd dd
+dd: illegal command
+
+-cmd aa
+aa: illegal command
+
+-cmd hh
+hh: illegal command
+
+-cmd $$
+$$: illegal command
+
+-cmd h
+h: illegal command
+
+-cmd a
+a: illegal command
+
+-cmd B
+B: illegal command
+
+-cmd D
+D: illegal command
+
+-cmd A
+A: illegal command
+
+-cmd H
+H: illegal command
+
+-cmd S
+S: illegal command

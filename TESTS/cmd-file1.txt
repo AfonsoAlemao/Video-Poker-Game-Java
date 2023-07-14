@@ -1,0 +1,41 @@
+b 1 d a h 1 2 3 4 5 
+b d a h 1 2 4 5 
+b 2 d a h 1 2 3 4 
+b d a h 1 2 3 
+b 3 d a h 1 2 3 4 5 
+b d a h 1 2 3 4 5 
+b 4 d a h 1 2 3 4 5 
+b d a h 1 2 3 4 5 
+b 5 d a h 1 2 3 4 
+b d a h 1 2 3 4 
+b d a h 1 2 
+b d a h 1 2 
+b d a h 1 2 3 4 
+b d a h 1 2 3 4 
+b d a h 1 2 4 
+b d a h 1 2 3 
+b d a h 2 3 4 5 
+b d a h 1 2 3 4 
+b d a h 1 2 
+b d a h 4 5 
+b d a h 1 2 3 4 
+b d a h 1 2 3 4 
+b d a h 1 2 3 4 
+b d a h 2 3 5 
+b d a h 1 2 3 
+b d a h 1 2 3 4 
+b d a h 1 2 3 4 
+b d a h 1 2 3 4 
+b d a h 1 2 3 4 
+b d a h 1 2 
+b d a h 3 4 
+b d a h 1 2 
+b d a h 1 2 3 
+b d a h 3 4 
+b d a h 1 4 5 
+b d a h 1 2 
+b d a h 1 2 
+b d a h 1 2 3 4 
+b d a h 1 2 3 4 
+b d a h 1 2 4 
+s
